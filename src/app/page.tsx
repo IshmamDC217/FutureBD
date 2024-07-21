@@ -24,9 +24,9 @@ const Landing = () => {
                     <li>Shoot-on-sight order during indefinite curfew.</li>
                   </ul>
                   The Bangladesh Awami League (BAL), in power for nearly two decades, leveraged liberation war sentiment and reserved <b className="text-[#923c4a]">one-third of government jobs for war-hero families</b>,
-                  sparking protests over discrimination amid rising unemployment. Nationwide unrest followed Premier Sheikh Hasina's labelling of protestors
+                  sparking protests over discrimination amid rising unemployment. Nationwide unrest followed Premier Sheikh Hasina&apos;s labelling of protestors
                   as <b className="text-[#923c4a]">national traitors</b>, resulting in <b className="text-[#923c4a]">hundreds killed</b> and thousands injured by the police and the pro-BAL student wing activists, leading to
-                  a <b className="text-[#923c4a]">shoot-on-sight order</b>, indefinite <b className="text-[#923c4a]">curfew</b>, and internet <b className="text-[#923c4a]">outage</b>. Disregarding the people's voices, the ruling party is proven <b className="text-[#923c4a]">zero accountable</b> for the public good and should step down.
+                  a <b className="text-[#923c4a]">shoot-on-sight order</b>, indefinite <b className="text-[#923c4a]">curfew</b>, and internet <b className="text-[#923c4a]">outage</b>. Disregarding the people&apos;s voices, the ruling party is proven <b className="text-[#923c4a]">zero accountable</b> for the public good and should step down.
                   The citizens of Bangladesh deserve justice, equality, accountability, and prosperity.
                   <p className="mt-5 font-bold text-[#923c4a]">
                     #SaveBangladeshiStudents | #StopKillingStudents | #StepDownHasina
