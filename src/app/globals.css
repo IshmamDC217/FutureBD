@@ -33,6 +33,7 @@
 }
 
 .landing-background {
+  background-image: url('/bg.svg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -42,7 +43,8 @@
 }
 
 .landingForm {
-  background-color: #000000bd;
+  padding: 10px;
+  background-color: #00000000;
   padding-inline: 2rem;
   padding-bottom: 2rem;
   border-radius: 10px;
