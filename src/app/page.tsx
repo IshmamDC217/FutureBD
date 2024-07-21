@@ -32,7 +32,7 @@ const Landing = () => {
                     #SaveBangladeshiStudents | #StopKillingStudents | #StepDownHasina
                   </p>
                   <p className="mt-1 text-[#585858]">
-                    - Leeds Bangladesh Community
+                    - Leeds Bangladeshi Community
                   </p>
                   <p className="mt-5 mb-5 text-base leading-relaxed text-white sm:text-lg md:text-xl max-w-3xl">
                     Sign the petition below to support our cause and demand justice.
