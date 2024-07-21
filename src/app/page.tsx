@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 
 const Landing = () => {
   return (
@@ -9,11 +10,13 @@ const Landing = () => {
       >
         <div className="container mx-auto">
           <div className="grid grid-cols-1 lg:grid-cols-2 items-center">
-            <img className="p-10 lg:p-16" src="/hero.png" alt="landing" />
+            <Image className="p-10 lg:p-16" src="/hero.png" alt="landing" width={500} height={300} />
             <div className="landingForm justify-center">
               <div className="justify-center">
                 <h2 className="text-4xl font-bold mb-1 text-[#923c4a] lg:text-5xl">Bangladesh</h2>
-                <h2 className="maintitle text-[#923c4a] mb-3 text-2xl font-bold lg:text-3xl">Is under state repression, violence, and extrajudicial killing</h2>
+                <h2 className="maintitle text-[#923c4a] mb-3 text-2xl font-bold lg:text-3xl">
+                  Is under state repression, violence, and extrajudicial killing
+                </h2>
                 <div className="mb-5 text-base leading-relaxed text-white sm:text-lg md:text-xl max-w-3xl ">
                   <ul className="mb-3 text-base leading-relaxed sm:text-lg md:text-xl max-w-3xl list-disc list-inside">
                     <li>200+ students and civilians killed for protesting against the 56% reserved quota in civil service jobs.</li>
