@@ -8,7 +8,7 @@ To get started with the project, clone the repository and install the necessary 
 
 ```bash
 git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+cd leedsbangladeshis
 npm install
 ```
 
