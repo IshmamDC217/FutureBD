@@ -2,6 +2,8 @@
   "compilerOptions": {
     "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
+    "typeRoots": ["node_modules/@types"],
+    "types": ["webxr"],
     "skipLibCheck": true,
     "strict": true,
     "noEmit": true,
