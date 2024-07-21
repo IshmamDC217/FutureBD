@@ -7,7 +7,7 @@ The page aims to raise awareness about the state repression, violence, and extra
 To get started with the project, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/IshmamDC217/Leeds4BD.git
 cd leedsbangladeshis
 npm install
 ```
