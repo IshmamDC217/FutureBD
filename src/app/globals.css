@@ -43,9 +43,7 @@
 }
 
 .landingForm {
-  padding: 10px;
-  background-color: #00000000;
-  padding-inline: 2rem;
+  padding-inline: 3rem;
   padding-bottom: 2rem;
   border-radius: 10px;
 }
