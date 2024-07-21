@@ -10,7 +10,7 @@ const Landing = () => {
       >
         <div className="container mx-auto">
           <div className="grid grid-cols-1 lg:grid-cols-2 items-center">
-            <Image className="p-10 lg:p-16" src="/hero.png" alt="landing" width={500} height={300} />
+            <Image className="p-10 lg:p-14 heroImage" src="/hero.png" alt="landing" width={500} height={300} />
             <div className="landingForm justify-center">
               <div className="justify-center">
                 <h2 className="text-4xl font-bold mb-1 text-[#923c4a] lg:text-5xl">Bangladesh</h2>
