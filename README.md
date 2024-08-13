@@ -1,6 +1,6 @@
 # "Save Bangladeshi Students" Awareness Page (Leeds Bangladeshi Community)
 
-The page aims to raise awareness about the state repression, violence, and extrajudicial killings occurring in Bangladesh. It includes a petition link for users to sign and support the cause.
+This is a page that talks about how Bangladesh’s students carried out world’s first Gen Z revolution.
 
 ## Installation
 
