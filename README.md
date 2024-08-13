@@ -1,4 +1,4 @@
-# "Save Bangladeshi Students" Awareness Page (Leeds Bangladeshi Community)
+# Blog: The Very First Gen Z revolution
 
 This is a page that talks about how Bangladesh’s students carried out world’s first Gen Z revolution.
 
